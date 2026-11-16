@@ -1,7 +1,6 @@
-Miel Hayden D. Gabad
-Course and Year: BS Infotech (Software Engineering 3-A)
-
-(BSInfo 3A-SE)- Current Trends in Programming Technologies
+Full Name: Miel Hayden D. Gabad
+Course and Year: BS Infotech (Software Engineering)
+Subject: CT5
 
 # Python Tkinter Login Form
 
